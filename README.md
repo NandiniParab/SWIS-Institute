@@ -385,12 +385,6 @@ MIT License - see LICENSE file
 
 ---
 
-## 👨‍💻 Author
-
-**Shubham Kadam**
-- GitHub: [@ShubhamK-0904](https://github.com/ShubhamK-0904)
-- LinkedIn: [Shubham Kadam](https://www.linkedin.com/in/shubham-kadam-b8856031a/)
-- Email: shubham85kadam@gmail.com
 
 ---
 
@@ -399,5 +393,5 @@ MIT License - see LICENSE file
 </p>
 
 <p align="center">
-  Made with ❤️ by Shubham Kadam | Last Updated: May 2026
+ 
 </p>
